@@ -123,6 +123,9 @@ Contenido de `.mcp.json`:
 
 ### 4.1 Acceso fuera del directorio autorizado a través del servidor MCP
 
+Se le pidio a Claude que creara un archivo en una carpeta que estaba fuera del directorio autorizado, y el modelo respondió que no podía hacerlo.
+
+![Límite de seguridad](img/limite-seguridad.png)
 
 
 ### 4.2 Observación: creación de una carpeta fuera del sandbox con permiso del usuario
