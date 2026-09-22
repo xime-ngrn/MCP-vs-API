@@ -24,7 +24,7 @@ Gabriel Hurtado Avilés
 | 4 | Arquitectura de MCP | [`4.ARQUITECTURA-DE-MCP`](docs/4.ARQUITECTURA-DE-MCP.md) |
 | 5 | El servidor de sistema de archivos | [`5.SERVIDOR-DE-SISTEMA-DE-ARCHIVOS`](docs/5.SERVIDOR-DE-SISTEMA-DE-ARCHIVOS.md) |
 | 6 | Seguridad | [`6.SEGURIDAD`](docs/6.SEGURIDAD.md) |
-| 7 | Casos de uso | [`7.CASOS DE USO`]() |
+| 7 | Casos de uso | [`7.CASOS DE USO`](docs/7.CASOS-DE-USO.md) |
 
 ### Parte 2: Implementación
 
