@@ -9,7 +9,7 @@ Gabriel Hurtado Avilés
 ### Participantes
 * Chávez Romero Jonathan - 2024630102
 * Moreno Noguerón Ximena - 2024630201
-
+* Reyes Castellanos José Abel - 2020311353
 ---
 
 ## Índice
