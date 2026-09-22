@@ -23,8 +23,8 @@ Gabriel Hurtado Avilés
 | 3 | MCP frente a una API | [`3.MCP-VS-API`](docs/3.MCP-VS-API.md) |
 | 4 | Arquitectura de MCP | [`4.ARQUITECTURA-DE-MCP`](docs/4.ARQUITECTURA-DE-MCP.md) |
 | 5 | El servidor de sistema de archivos | [`5.SERVIDOR-DE-SISTEMA-DE-ARCHIVOS`](docs/5.SERVIDOR-DE-SISTEMA-DE-ARCHIVOS.md) |
-| 6 | Seguridad | [`-`]() |
-| 7 | Casos de uso | [`-`]() |
+| 6 | Seguridad | [`6.SEGURIDAD`](docs/6.SEGURIDAD.md) |
+| 7 | Casos de uso | [`7.CASOS DE USO`]() |
 
 ### Parte 2: Implementación
 
