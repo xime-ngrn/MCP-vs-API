@@ -21,8 +21,8 @@ Gabriel Hurtado Avilés
 | 1 | Evolución de los modelos (LM → LLM → razonamiento explícito) | [`1.EVOLUCION`](docs/1.EVOLUCION.md) |
 | 2 | El problema del aislamiento | [`2.AISLAMIENTO`](docs/2.AISLAMIENTO.md) |
 | 3 | MCP frente a una API | [`3.MCP-VS-API`](docs/3.MCP-VS-API.md) |
-| 4 | Arquitectura de MCP | [`-`]() |
-| 5 | El servidor de sistema de archivos | [`-`]() |
+| 4 | Arquitectura de MCP | [`4.ARQUITECTURA-DE-MCP`](docs/4.ARQUITECTURA-DE-MCP.md) |
+| 5 | El servidor de sistema de archivos | [`5.SERVIDOR-DE-SISTEMA-DE-ARCHIVOS`](docs/5.SERVIDOR-DE-SISTEMA-DE-ARCHIVOS.md) |
 | 6 | Seguridad | [`-`]() |
 | 7 | Casos de uso | [`-`]() |
 
